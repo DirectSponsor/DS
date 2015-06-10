@@ -1,0 +1,13 @@
+1. GLOBALS
+
+accounts.directsponsor/app/start/global.php
+Added new array component 'page'
+
+accounts.directsponsor/app/views/layouts/elements/nav.blade.php
+
+Added class to <li> in navigation. for adding style to navigation
+
+accounts.directsponsor/app/views/layouts/cpanel.blade.php
+accounts.directsponsor/app/views/layouts/login.blade.php
+Added new stylesheet style.css
+
