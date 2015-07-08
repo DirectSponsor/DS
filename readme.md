@@ -1,3 +1,5 @@
+This version is archived, please use DS5.1 repository instead.
+
 This is an accounts backend built using the Laravel framework version 4. 
 It provides 4 different user types : sponsors, coordinators, recipients and admins.
 
